@@ -146,8 +146,7 @@ end;
 
 procedure TMainForm.CodeInputChange(Sender: TObject);
 begin
-//  TheSolapin.Codify := Format('*%s*', [CodeInput.Text]);
-  TheSolapin.Codify := CodeInput.Text;
+  TheSolapin.Codify := Format('*%s*', [CodeInput.Text]);
 end;
 
 procedure TMainForm.ImprimirClick(Sender: TObject);

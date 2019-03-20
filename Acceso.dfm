@@ -1,6 +1,6 @@
 object FormAcceso: TFormAcceso
-  Left = 267
-  Top = 226
+  Left = 407
+  Top = 240
   BorderStyle = bsDialog
   Caption = 'Acceso'
   ClientHeight = 88
@@ -12,6 +12,7 @@ object FormAcceso: TFormAcceso
   Font.Name = 'MS Sans Serif'
   Font.Style = []
   OldCreateOrder = False
+  Position = poDesktopCenter
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel

@@ -1203,8 +1203,8 @@ object FrameSolapin: TFrameSolapin
     object FullName: TLabel
       Left = 8
       Top = 79
-      Width = 122
-      Height = 19
+      Width = 135
+      Height = 18
       Caption = 'Nombre y Apellidos'
       Font.Charset = ANSI_CHARSET
       Font.Color = clBlue
@@ -1217,8 +1217,8 @@ object FrameSolapin: TFrameSolapin
     object Charge: TLabel
       Left = 8
       Top = 99
-      Width = 31
-      Height = 15
+      Width = 34
+      Height = 16
       Caption = 'Cargo'
       Font.Charset = ANSI_CHARSET
       Font.Color = clBlue
@@ -1503,15 +1503,15 @@ object FrameSolapin: TFrameSolapin
     object Code: TPanel
       Left = 170
       Top = 151
-      Width = 162
+      Width = 150
       Height = 49
       BevelOuter = bvNone
-      Caption = '398347988236'
+      Caption = '*789342*'
       Color = clWhite
-      Font.Charset = ANSI_CHARSET
+      Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -45
-      Font.Name = 'C39T24Nfz'
+      Font.Name = 'Code 128'
       Font.Style = []
       ParentFont = False
       TabOrder = 0

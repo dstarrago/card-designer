@@ -1,7 +1,7 @@
 object Informe: TInforme
-  Left = 224
-  Top = 103
-  Width = 544
+  Left = 477
+  Top = 173
+  Width = 926
   Height = 375
   Caption = 'Solapines para Imprimir'
   Color = clNone
@@ -12,6 +12,7 @@ object Informe: TInforme
   Font.Style = []
   Menu = MainMenu1
   OldCreateOrder = False
+  Position = poDesktopCenter
   OnCreate = FormCreate
   OnDestroy = FormDestroy
   PixelsPerInch = 96

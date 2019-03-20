@@ -1,6 +1,6 @@
 object FormChangePassword: TFormChangePassword
-  Left = 259
-  Top = 170
+  Left = 364
+  Top = 180
   BorderStyle = bsDialog
   Caption = 'Cambiar clave de acceso'
   ClientHeight = 175
@@ -12,6 +12,7 @@ object FormChangePassword: TFormChangePassword
   Font.Name = 'MS Sans Serif'
   Font.Style = []
   OldCreateOrder = False
+  Position = poDesktopCenter
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
